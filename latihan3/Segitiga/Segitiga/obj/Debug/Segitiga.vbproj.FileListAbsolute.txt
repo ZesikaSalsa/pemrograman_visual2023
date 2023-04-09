@@ -1,0 +1,15 @@
+c:\users\asus\documents\visual studio 2015\Projects\Segitiga\Segitiga\bin\Debug\Segitiga.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Segitiga\Segitiga\bin\Debug\Segitiga.exe
+c:\users\asus\documents\visual studio 2015\Projects\Segitiga\Segitiga\bin\Debug\Segitiga.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Segitiga\Segitiga\bin\Debug\Segitiga.xml
+c:\users\asus\documents\visual studio 2015\Projects\Segitiga\Segitiga\obj\Debug\Segitiga.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Segitiga\Segitiga\obj\Debug\Segitiga.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Segitiga\Segitiga\obj\Debug\Segitiga.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Segitiga\Segitiga\obj\Debug\Segitiga.exe
+c:\users\asus\documents\visual studio 2015\Projects\Segitiga\Segitiga\obj\Debug\Segitiga.xml
+c:\users\asus\documents\visual studio 2015\Projects\Segitiga\Segitiga\obj\Debug\Segitiga.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Segitiga\Segitiga\obj\Debug\Segitiga.Segitiga.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Latihan 3\Segitiga\Segitiga\bin\Debug\Segitiga.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Latihan 3\Segitiga\Segitiga\obj\Debug\Segitiga.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Latihan 3\Segitiga\Segitiga\obj\Debug\Segitiga.xml
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Latihan 3\Segitiga\Segitiga\obj\Debug\Segitiga.pdb

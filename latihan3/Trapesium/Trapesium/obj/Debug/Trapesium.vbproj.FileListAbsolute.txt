@@ -1,0 +1,15 @@
+c:\users\asus\documents\visual studio 2015\Projects\Trapesium\Trapesium\bin\Debug\Trapesium.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Trapesium\Trapesium\bin\Debug\Trapesium.exe
+c:\users\asus\documents\visual studio 2015\Projects\Trapesium\Trapesium\bin\Debug\Trapesium.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Trapesium\Trapesium\bin\Debug\Trapesium.xml
+c:\users\asus\documents\visual studio 2015\Projects\Trapesium\Trapesium\obj\Debug\Trapesium.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Trapesium\Trapesium\obj\Debug\Trapesium.Trapesium.resources
+c:\users\asus\documents\visual studio 2015\Projects\Trapesium\Trapesium\obj\Debug\Trapesium.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Trapesium\Trapesium\obj\Debug\Trapesium.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Trapesium\Trapesium\obj\Debug\Trapesium.exe
+c:\users\asus\documents\visual studio 2015\Projects\Trapesium\Trapesium\obj\Debug\Trapesium.xml
+c:\users\asus\documents\visual studio 2015\Projects\Trapesium\Trapesium\obj\Debug\Trapesium.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Latihan 3\Trapesium\Trapesium\bin\Debug\Trapesium.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Latihan 3\Trapesium\Trapesium\obj\Debug\Trapesium.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Latihan 3\Trapesium\Trapesium\obj\Debug\Trapesium.xml
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\Latihan 3\Trapesium\Trapesium\obj\Debug\Trapesium.pdb
