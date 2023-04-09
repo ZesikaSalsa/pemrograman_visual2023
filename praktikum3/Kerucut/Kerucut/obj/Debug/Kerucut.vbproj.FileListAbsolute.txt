@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\Kerucut\Kerucut\bin\Debug\Kerucut.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Kerucut\Kerucut\bin\Debug\Kerucut.exe
+c:\users\asus\documents\visual studio 2015\Projects\Kerucut\Kerucut\bin\Debug\Kerucut.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Kerucut\Kerucut\bin\Debug\Kerucut.xml
+c:\users\asus\documents\visual studio 2015\Projects\Kerucut\Kerucut\obj\Debug\Kerucut.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Kerucut\Kerucut\obj\Debug\Kerucut.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\Kerucut\Kerucut\obj\Debug\Kerucut.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Kerucut\Kerucut\obj\Debug\Kerucut.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Kerucut\Kerucut\obj\Debug\Kerucut.exe
+c:\users\asus\documents\visual studio 2015\Projects\Kerucut\Kerucut\obj\Debug\Kerucut.xml
+c:\users\asus\documents\visual studio 2015\Projects\Kerucut\Kerucut\obj\Debug\Kerucut.pdb

@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\Bola\Bola\bin\Debug\Bola.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Bola\Bola\bin\Debug\Bola.exe
+c:\users\asus\documents\visual studio 2015\Projects\Bola\Bola\bin\Debug\Bola.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Bola\Bola\bin\Debug\Bola.xml
+c:\users\asus\documents\visual studio 2015\Projects\Bola\Bola\obj\Debug\Bola.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Bola\Bola\obj\Debug\Bola.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\Bola\Bola\obj\Debug\Bola.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Bola\Bola\obj\Debug\Bola.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Bola\Bola\obj\Debug\Bola.exe
+c:\users\asus\documents\visual studio 2015\Projects\Bola\Bola\obj\Debug\Bola.xml
+c:\users\asus\documents\visual studio 2015\Projects\Bola\Bola\obj\Debug\Bola.pdb
