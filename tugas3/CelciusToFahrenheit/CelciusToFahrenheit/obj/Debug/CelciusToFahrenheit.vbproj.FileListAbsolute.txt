@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\CelciusToFahrenheit\CelciusToFahrenheit\bin\Debug\CelciusToFahrenheit.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\CelciusToFahrenheit\CelciusToFahrenheit\bin\Debug\CelciusToFahrenheit.exe
+c:\users\asus\documents\visual studio 2015\Projects\CelciusToFahrenheit\CelciusToFahrenheit\bin\Debug\CelciusToFahrenheit.pdb
+c:\users\asus\documents\visual studio 2015\Projects\CelciusToFahrenheit\CelciusToFahrenheit\bin\Debug\CelciusToFahrenheit.xml
+c:\users\asus\documents\visual studio 2015\Projects\CelciusToFahrenheit\CelciusToFahrenheit\obj\Debug\CelciusToFahrenheit.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\CelciusToFahrenheit\CelciusToFahrenheit\obj\Debug\CelciusToFahrenheit.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\CelciusToFahrenheit\CelciusToFahrenheit\obj\Debug\CelciusToFahrenheit.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\CelciusToFahrenheit\CelciusToFahrenheit\obj\Debug\CelciusToFahrenheit.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\CelciusToFahrenheit\CelciusToFahrenheit\obj\Debug\CelciusToFahrenheit.exe
+c:\users\asus\documents\visual studio 2015\Projects\CelciusToFahrenheit\CelciusToFahrenheit\obj\Debug\CelciusToFahrenheit.xml
+c:\users\asus\documents\visual studio 2015\Projects\CelciusToFahrenheit\CelciusToFahrenheit\obj\Debug\CelciusToFahrenheit.pdb

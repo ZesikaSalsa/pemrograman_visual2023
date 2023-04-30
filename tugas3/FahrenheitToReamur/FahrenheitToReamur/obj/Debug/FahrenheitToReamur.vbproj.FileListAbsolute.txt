@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2015\Projects\FahrenheitToReamur\FahrenheitToReamur\bin\Debug\FahrenheitToReamur.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\FahrenheitToReamur\FahrenheitToReamur\bin\Debug\FahrenheitToReamur.exe
+c:\users\asus\documents\visual studio 2015\Projects\FahrenheitToReamur\FahrenheitToReamur\bin\Debug\FahrenheitToReamur.pdb
+c:\users\asus\documents\visual studio 2015\Projects\FahrenheitToReamur\FahrenheitToReamur\bin\Debug\FahrenheitToReamur.xml
+c:\users\asus\documents\visual studio 2015\Projects\FahrenheitToReamur\FahrenheitToReamur\obj\Debug\FahrenheitToReamur.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\FahrenheitToReamur\FahrenheitToReamur\obj\Debug\FahrenheitToReamur.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\FahrenheitToReamur\FahrenheitToReamur\obj\Debug\FahrenheitToReamur.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\FahrenheitToReamur\FahrenheitToReamur\obj\Debug\FahrenheitToReamur.exe
+c:\users\asus\documents\visual studio 2015\Projects\FahrenheitToReamur\FahrenheitToReamur\obj\Debug\FahrenheitToReamur.xml
+c:\users\asus\documents\visual studio 2015\Projects\FahrenheitToReamur\FahrenheitToReamur\obj\Debug\FahrenheitToReamur.pdb

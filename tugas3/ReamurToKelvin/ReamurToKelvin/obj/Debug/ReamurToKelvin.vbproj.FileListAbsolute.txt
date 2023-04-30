@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2015\Projects\ReamurToKelvin\ReamurToKelvin\bin\Debug\ReamurToKelvin.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\ReamurToKelvin\ReamurToKelvin\bin\Debug\ReamurToKelvin.exe
+c:\users\asus\documents\visual studio 2015\Projects\ReamurToKelvin\ReamurToKelvin\bin\Debug\ReamurToKelvin.pdb
+c:\users\asus\documents\visual studio 2015\Projects\ReamurToKelvin\ReamurToKelvin\bin\Debug\ReamurToKelvin.xml
+c:\users\asus\documents\visual studio 2015\Projects\ReamurToKelvin\ReamurToKelvin\obj\Debug\ReamurToKelvin.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\ReamurToKelvin\ReamurToKelvin\obj\Debug\ReamurToKelvin.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\ReamurToKelvin\ReamurToKelvin\obj\Debug\ReamurToKelvin.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\ReamurToKelvin\ReamurToKelvin\obj\Debug\ReamurToKelvin.exe
+c:\users\asus\documents\visual studio 2015\Projects\ReamurToKelvin\ReamurToKelvin\obj\Debug\ReamurToKelvin.xml
+c:\users\asus\documents\visual studio 2015\Projects\ReamurToKelvin\ReamurToKelvin\obj\Debug\ReamurToKelvin.pdb
