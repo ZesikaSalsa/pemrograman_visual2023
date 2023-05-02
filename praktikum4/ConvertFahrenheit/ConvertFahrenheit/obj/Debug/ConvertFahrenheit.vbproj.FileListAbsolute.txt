@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\bin\Debug\ConvertFahrenheit.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\bin\Debug\ConvertFahrenheit.exe
+c:\users\asus\documents\visual studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\bin\Debug\ConvertFahrenheit.pdb
+c:\users\asus\documents\visual studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\bin\Debug\ConvertFahrenheit.xml
+c:\users\asus\documents\visual studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.exe
+c:\users\asus\documents\visual studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.xml
+c:\users\asus\documents\visual studio 2015\Projects\ConvertFahrenheit\ConvertFahrenheit\obj\Debug\ConvertFahrenheit.pdb
