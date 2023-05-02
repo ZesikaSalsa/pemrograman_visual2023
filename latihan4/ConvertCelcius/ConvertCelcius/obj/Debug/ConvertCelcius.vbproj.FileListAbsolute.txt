@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\ConvertCelcius\ConvertCelcius\bin\Debug\ConvertCelcius.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\ConvertCelcius\ConvertCelcius\bin\Debug\ConvertCelcius.exe
+c:\users\asus\documents\visual studio 2015\Projects\ConvertCelcius\ConvertCelcius\bin\Debug\ConvertCelcius.pdb
+c:\users\asus\documents\visual studio 2015\Projects\ConvertCelcius\ConvertCelcius\bin\Debug\ConvertCelcius.xml
+c:\users\asus\documents\visual studio 2015\Projects\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.exe
+c:\users\asus\documents\visual studio 2015\Projects\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.xml
+c:\users\asus\documents\visual studio 2015\Projects\ConvertCelcius\ConvertCelcius\obj\Debug\ConvertCelcius.pdb
