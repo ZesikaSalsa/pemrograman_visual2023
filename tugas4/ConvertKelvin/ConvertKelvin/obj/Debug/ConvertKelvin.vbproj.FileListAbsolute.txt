@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\ConvertKelvin\ConvertKelvin\bin\Debug\ConvertKelvin.exe.config
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConvertKelvin\ConvertKelvin\bin\Debug\ConvertKelvin.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConvertKelvin\ConvertKelvin\bin\Debug\ConvertKelvin.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConvertKelvin\ConvertKelvin\bin\Debug\ConvertKelvin.xml
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConvertKelvin\ConvertKelvin\obj\Debug\ConvertKelvin.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConvertKelvin\ConvertKelvin\obj\Debug\ConvertKelvin.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConvertKelvin\ConvertKelvin\obj\Debug\ConvertKelvin.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConvertKelvin\ConvertKelvin\obj\Debug\ConvertKelvin.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConvertKelvin\ConvertKelvin\obj\Debug\ConvertKelvin.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConvertKelvin\ConvertKelvin\obj\Debug\ConvertKelvin.xml
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\ConvertKelvin\ConvertKelvin\obj\Debug\ConvertKelvin.pdb

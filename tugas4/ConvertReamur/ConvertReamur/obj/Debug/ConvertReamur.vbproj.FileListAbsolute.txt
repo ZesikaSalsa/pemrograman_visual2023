@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2015\Projects\ConvertReamur\ConvertReamur\bin\Debug\ConvertReamur.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\ConvertReamur\ConvertReamur\bin\Debug\ConvertReamur.exe
+c:\users\asus\documents\visual studio 2015\Projects\ConvertReamur\ConvertReamur\bin\Debug\ConvertReamur.pdb
+c:\users\asus\documents\visual studio 2015\Projects\ConvertReamur\ConvertReamur\bin\Debug\ConvertReamur.xml
+c:\users\asus\documents\visual studio 2015\Projects\ConvertReamur\ConvertReamur\obj\Debug\ConvertReamur.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\ConvertReamur\ConvertReamur\obj\Debug\ConvertReamur.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\ConvertReamur\ConvertReamur\obj\Debug\ConvertReamur.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\ConvertReamur\ConvertReamur\obj\Debug\ConvertReamur.exe
+c:\users\asus\documents\visual studio 2015\Projects\ConvertReamur\ConvertReamur\obj\Debug\ConvertReamur.xml
+c:\users\asus\documents\visual studio 2015\Projects\ConvertReamur\ConvertReamur\obj\Debug\ConvertReamur.pdb
