@@ -1,0 +1,12 @@
+c:\users\asus\documents\visual studio 2015\Projects\PercabanganIf\PercabanganIf\bin\Debug\PercabanganIf.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\PercabanganIf\PercabanganIf\bin\Debug\PercabanganIf.exe
+c:\users\asus\documents\visual studio 2015\Projects\PercabanganIf\PercabanganIf\bin\Debug\PercabanganIf.pdb
+c:\users\asus\documents\visual studio 2015\Projects\PercabanganIf\PercabanganIf\bin\Debug\PercabanganIf.xml
+c:\users\asus\documents\visual studio 2015\Projects\PercabanganIf\PercabanganIf\obj\Debug\PercabanganIf.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\PercabanganIf\PercabanganIf\obj\Debug\PercabanganIf.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\PercabanganIf\PercabanganIf\obj\Debug\PercabanganIf.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\PercabanganIf\PercabanganIf\obj\Debug\PercabanganIf.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\PercabanganIf\PercabanganIf\obj\Debug\PercabanganIf.exe
+c:\users\asus\documents\visual studio 2015\Projects\PercabanganIf\PercabanganIf\obj\Debug\PercabanganIf.xml
+c:\users\asus\documents\visual studio 2015\Projects\PercabanganIf\PercabanganIf\obj\Debug\PercabanganIf.pdb
+c:\users\asus\documents\visual studio 2015\Projects\PercabanganIf\PercabanganIf\obj\Debug\PercabanganIf.Form2.resources
