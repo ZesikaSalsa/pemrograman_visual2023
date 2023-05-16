@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\NilaiMutu\NilaiMutu\bin\Debug\NilaiMutu.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\NilaiMutu\NilaiMutu\obj\Debug\NilaiMutu.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\NilaiMutu\NilaiMutu\obj\Debug\NilaiMutu.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\NilaiMutu\NilaiMutu\obj\Debug\NilaiMutu.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\NilaiMutu\NilaiMutu\obj\Debug\NilaiMutu.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\NilaiMutu\NilaiMutu\bin\Debug\NilaiMutu.exe
+c:\users\asus\documents\visual studio 2015\Projects\NilaiMutu\NilaiMutu\bin\Debug\NilaiMutu.pdb
+c:\users\asus\documents\visual studio 2015\Projects\NilaiMutu\NilaiMutu\bin\Debug\NilaiMutu.xml
+c:\users\asus\documents\visual studio 2015\Projects\NilaiMutu\NilaiMutu\obj\Debug\NilaiMutu.exe
+c:\users\asus\documents\visual studio 2015\Projects\NilaiMutu\NilaiMutu\obj\Debug\NilaiMutu.xml
+c:\users\asus\documents\visual studio 2015\Projects\NilaiMutu\NilaiMutu\obj\Debug\NilaiMutu.pdb
