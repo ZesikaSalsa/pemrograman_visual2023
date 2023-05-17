@@ -1,0 +1,10 @@
+c:\users\asus\documents\visual studio 2015\Projects\RadioButton\RadioButton\bin\Debug\RadioButton.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\RadioButton\RadioButton\bin\Debug\RadioButton.exe
+c:\users\asus\documents\visual studio 2015\Projects\RadioButton\RadioButton\bin\Debug\RadioButton.pdb
+c:\users\asus\documents\visual studio 2015\Projects\RadioButton\RadioButton\bin\Debug\RadioButton.xml
+c:\users\asus\documents\visual studio 2015\Projects\RadioButton\RadioButton\obj\Debug\RadioButton.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\RadioButton\RadioButton\obj\Debug\RadioButton.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\RadioButton\RadioButton\obj\Debug\RadioButton.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\RadioButton\RadioButton\obj\Debug\RadioButton.exe
+c:\users\asus\documents\visual studio 2015\Projects\RadioButton\RadioButton\obj\Debug\RadioButton.xml
+c:\users\asus\documents\visual studio 2015\Projects\RadioButton\RadioButton\obj\Debug\RadioButton.pdb
