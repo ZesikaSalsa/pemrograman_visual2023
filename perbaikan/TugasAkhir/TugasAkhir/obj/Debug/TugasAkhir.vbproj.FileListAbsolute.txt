@@ -1,0 +1,17 @@
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.Form2.resources
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.exe
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.pdb
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\bin\Debug\TugasAkhir.xml
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\bin\Debug\MySql.Data.dll
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\bin\Debug\Newtonsoft.Json.dll
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\bin\Debug\Newtonsoft.Json.pdb
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\bin\Debug\Newtonsoft.Json.xml
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.Form3.resources
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.exe
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.xml
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.pdb
+c:\users\asus\documents\visual studio 2015\Projects\TugasAkhir\TugasAkhir\obj\Debug\TugasAkhir.vbprojResolveAssemblyReference.cache
